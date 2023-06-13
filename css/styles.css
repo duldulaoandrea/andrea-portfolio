@@ -1,0 +1,54 @@
+.home {
+    background-color: #F8E8EE;
+}
+
+.hi-my-name {
+    letter-spacing: 4.2px;
+    font-size: 18px;
+    line-height: 0;
+}
+@media (max-width: 445px){
+    .hi-my-name {
+        letter-spacing: normal;
+    }
+    .ava-andrea {
+        height: 200px;
+    }
+}
+
+@media (max-width: 767px){
+
+}
+
+.send-message {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 7px;
+    background-color: #D2E9E9;
+}
+.send-message:hover {
+    background-color: black;
+    color: white;
+}
+
+.lets-connect {
+    padding: 50px 0;
+    background-color: #F2BED1;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.if-interested {
+    width: 90%;
+}
+
+.info-des {
+    width: 90%;
+}
+
